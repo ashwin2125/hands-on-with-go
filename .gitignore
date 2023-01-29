@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# Jetbrains
+.idea
+.tdl-training
+.tdl-exercise
+.vscode/settings.json
